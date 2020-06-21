@@ -4,7 +4,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "lekhana.ipynb",
+      "name": "sindhu.ipynb",
       "provenance": [],
       "collapsed_sections": [],
       "authorship_tag": "ABX9TyNNveJXQnYeSXWUttrA8rgc",
